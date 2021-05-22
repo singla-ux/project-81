@@ -1,0 +1,10 @@
+h1{
+color: red;
+font-size: 40px;
+}
+.body_background_{
+    background-image: url(bg1.jpg);
+    background-position:center;
+    border-style: dashed;
+    border-color: royalblue;
+}
